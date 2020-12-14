@@ -1,0 +1,12 @@
+name: nauta_sdk
+description: SDK to work with nauta services
+version: 0.0.1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  dio: ^3.0.10
+  dio_cookie_manager: ^1.0.0
+  cookie_jar: ^1.0.1
+  html: ^0.14.0+4
