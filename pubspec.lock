@@ -15,13 +15,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.14.13"
-  cookie_jar:
-    dependency: "direct main"
-    description:
-      name: cookie_jar
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "1.0.1"
   csslib:
     dependency: transitive
     description:
@@ -36,13 +29,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "3.0.10"
-  dio_cookie_manager:
-    dependency: "direct main"
-    description:
-      name: dio_cookie_manager
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "1.0.0"
   html:
     dependency: "direct main"
     description:
